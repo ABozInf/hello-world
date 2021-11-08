@@ -1,4 +1,4 @@
-# hello-world
-newbie thing
+# about
+exploring and learning
 
-Wondering what github is about? how to connect?
+
